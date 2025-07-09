@@ -4,11 +4,14 @@
 
 🌍 Currently living and working in **Hue, Vietnam**.
 
-- 🔭 I’m currently working on Tenomad [Ninzaco Ecommerce](https://ninza.co/)
+💼 I have experience with:
+- React, Next.js  
+- Node.js, Strapi, Nestjs  
+- HTML, CSS (Tailwind, Scss, Less), JavaScript/TypeScript  
+- REST API, GraphQL  
 
-- 💬 Ask me about **Reactjs, Nextjs, nodejs, Nestjs**
+🚀 My goal is to build modern, efficient, and user-friendly web applications.
 
-- 📫 How to reach me **pctai1211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
