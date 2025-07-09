@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tai Phan</h1>
-<h3 align="center">A passionate developer from Viet Nam</h3>
+# 👋 Hi there, I'm Tai Phan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pctai1211" alt="pctai1211" /></a> </p>
+🎯 I'm a **Web Developer** passionate about technology, always eager to learn and grow.
+
+🌍 Currently living and working in **Hue, Vietnam**.
 
 - 🔭 I’m currently working on Tenomad [Ninzaco Ecommerce](https://ninza.co/)
 
